@@ -18,7 +18,7 @@ WAIT_FOR_EMULATOR_URL=https://raw.githubusercontent.com/aikinci/android-sdk-inst
 ACCEPT_LICENSES_URL=https://raw.githubusercontent.com/aikinci/android-sdk-installer/master/accept-licenses
 
 # Defaults
-INSTALLER_DIR=$HOME/.android-sdk-installer
+INSTALLER_DIR=""
 INSTALL=""
 LICENSES="android-sdk-license-5be876d5"
 
