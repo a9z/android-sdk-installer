@@ -20,7 +20,7 @@ ACCEPT_LICENSES_URL=https://raw.githubusercontent.com/aikinci/android-sdk-instal
 # Defaults
 INSTALLER_DIR=""
 INSTALL=""
-LICENSES="android-sdk-license-ed0d0a5b"
+LICENSES="android-sdk-license-5be876d5"
 
 for i in "$@"
 do
