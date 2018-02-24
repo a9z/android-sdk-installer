@@ -14,8 +14,8 @@ SDK_FILE=android-sdk_r24.4.1-linux.tgz
 SDK_URL=http://dl.google.com/android/$SDK_FILE
 
 DEFAULT_INSTALL=platform-tools
-WAIT_FOR_EMULATOR_URL=https://raw.githubusercontent.com/aikinci/android-sdk-installer/master/wait_for_emulator
-ACCEPT_LICENSES_URL=https://raw.githubusercontent.com/aikinci/android-sdk-installer/master/accept-licenses
+WAIT_FOR_EMULATOR_URL=https://raw.githubusercontent.com/a9z/android-sdk-installer/master/wait_for_emulator
+ACCEPT_LICENSES_URL=https://raw.githubusercontent.com/a9z/android-sdk-installer/master/accept-licenses
 
 # Defaults
 INSTALLER_DIR=""
